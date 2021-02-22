@@ -1,2 +1,1 @@
 currently learning python
-python
